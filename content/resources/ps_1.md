@@ -5,6 +5,8 @@ description: This file contains questions for integral equations based on the re
 file: /courses/18-307-integral-equations-spring-2006/91f7f1dc5c27991f4de063141af387e4_ps_1.pdf
 file_size: 33905
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

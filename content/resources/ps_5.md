@@ -5,6 +5,8 @@ description: This file contains the questions based on the required reading for 
 file: /courses/18-307-integral-equations-spring-2006/16a50f945649795ea68e6185c0f2a857_ps_5.pdf
 file_size: 42891
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

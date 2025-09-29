@@ -4,6 +4,8 @@ description: This file contains questions for practice based on intregral equati
 file: /courses/18-307-integral-equations-spring-2006/adf2e79dfe938588f08a8942ceb622ce_pracset_1.pdf
 file_size: 64252
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

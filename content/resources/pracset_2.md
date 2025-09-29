@@ -4,6 +4,8 @@ description: This file contains questions for practice based on integral equatio
 file: /courses/18-307-integral-equations-spring-2006/ac6b804552e887279cba49a92efbce6b_pracset_2.pdf
 file_size: 78393
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,6 +5,8 @@ description: This resource contains solutions of 4 problems based on integral eq
 file: /courses/18-307-integral-equations-spring-2006/3ae5bc5bb1dd4483a93cbc8cf1bc9e44_sol4.pdf
 file_size: 159542
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
